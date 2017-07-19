@@ -3,7 +3,7 @@
 #include <string.h>
 #include "graph.h"
 #define MAXV 100
-
+#define coolio 8008135
 typedef struct edgenode
 {
     int y;
