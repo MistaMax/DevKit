@@ -1,0 +1,2 @@
+conc ls -l /bin , ps -fu > ps.txt
+pipe ls , sort
